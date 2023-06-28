@@ -117,3 +117,7 @@
 .logo img {
   filter: invert(1);
 }
+
+.tokenButton:hover {
+  cursor: pointer;
+}

@@ -20,5 +20,6 @@ html {
 }
 body {
   color: #e7e8e8;
-  background: #0f1318;
+  background: rgb(0,0,0);
+  background: linear-gradient(16deg, rgba(0,0,0,1) 0%, rgba(79,217,230,1) 78%, rgba(120,255,230,1) 100%);
 }

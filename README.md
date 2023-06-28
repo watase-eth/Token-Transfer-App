@@ -1,9 +1,14 @@
 ## Getting Started
 
-Create a project using this example:
+Project for Token Transfer video on YouTube: (https://youtu.be/Eue8r1FjNqo)
 
+Project uses Chakra UI:
 ```bash
-npx thirdweb create --template next-typescript-starter
+npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+```
+or
+```bash
+yarn add @chakra-ui/react @emotion/react @emotion/styled framer-motion
 ```
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
